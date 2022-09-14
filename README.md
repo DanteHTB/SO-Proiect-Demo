@@ -2,7 +2,7 @@
 
 ## ***Tip - The - Trip***
 
-Application made using `Ionic 3` `Angular` `NodeJS-v6`  @ Feb 24, 2021
+Mobile Application made using `Ionic 3` `Angular` `NodeJS-v6`  @ Feb 24, 2021
 <br />
 <br />
 
