@@ -1,7 +1,7 @@
 <h1 align="center">Tip The Trip</h1>
 
   <p align="center">
-    <a href="https://dantehtb.github.io/SO-Proiect-Demo/"><strong>:point_right: Live Demo Here :point_left:</strong></a>
+    <a href="https://darirak.github.io/SO-Proiect-Demo/"><strong>:point_right: Live Demo Here :point_left:</strong></a>
     <br />
     <br />
   </p>
@@ -40,7 +40,7 @@ Tip The Trip is a mobile application that allows a user to book a trip to a spec
 
 The Project was developed along my fellow colleague <a href="https://github.com/PANDREAVLAD">Vlad PANDREA</a> for the course **"Operating Systems for Mobile Platforms"** 
 
-<a href="https://github.com/DanteHTB/SO-Proiect"><strong>:point_right: Old Repository :point_left:</strong></a> @ February 24, 2021
+<a href="https://github.com/darirak/SO-Proiect"><strong>:point_right: Old Repository :point_left:</strong></a> @ February 24, 2021
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,8 +75,8 @@ The Project was developed along my fellow colleague <a href="https://github.com/
 
 <p>
 <div align="center">
-  <a href="https://alcaandesign.com/"><img src="https://img.shields.io/badge/-My%20Portfolio%20Website-blueviolet?style=for-the-badge" alt="Alcaan Design - My Portfolio Website" /></a>
-  <a href="https://www.linkedin.com/in/a-angelescu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://darirak.ro/"><img src="https://img.shields.io/badge/-My%20Portfolio%20Website-blueviolet?style=for-the-badge" alt="Alcaan Design - My Portfolio Website" /></a>
+  <a href="https://www.linkedin.com/in/darirak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 [HTML.com]: https://img.shields.io/badge/html-e44d26?style=for-the-badge&logo=html5&logoColor=white
