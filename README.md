@@ -51,18 +51,19 @@ The Project was developed along my fellow colleague <a href="https://github.com/
 
 * **Tip The Trip is an mobile app that allows the user to login, search and book a trip for a certain number of persons.**
   * Features of the app:
+    * Responsive Design
+    * Routing
     * Fake-Login
     * Calendar
     * Search functionality
     * Display destination details
     * Change number of persons functionality
-  * The project uses SCSS, Classes, Modules, Toasts, MVC Architecture (Model-View-Controller)
+  * The project uses SCSS, Toasts, MVC Architecture (Model-View-Controller)
 
 ### Built Using
 
 * [![HTML][HTML.com]][HTML-url]
 * [![CSS][CSS3.com]][CSS-url]
-* [![JavaScript][JavaScript.com]][JavaScript-url]
 * [![TypeScript][TypeScript.org]][TypeScript-url]
 * [![NodeJS-v6][Nodejs.org]][Nodejs-url]
 * [![Angular][Angular.io]][Angular-url]
